@@ -1,0 +1,10 @@
+# dependencies
+node_modules
+
+# local environment variables
+.env.local
+.env
+
+# vscode settings
+.vscode
+.vercel
